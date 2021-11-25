@@ -27,4 +27,21 @@ Even if we increase the basesation density, then problem related to cell edge is
 In order to increase the spectral efficiency we can direct the beams of signal towards the users and ultimately increase the spectral efficiency.<br>
 ![fig20](https://user-images.githubusercontent.com/69033172/143398691-fc6c89fe-3b40-447b-ab34-8297ac03386e.png)
 
+### BER comparision for Theoratical MRC and Simulated MRC
+MRC stands for maximal ratio combiner and it is used as a beamformer and used to suppress the interference and increase the spectral efficiency for the users.<br><br>
+![MRC_BER](https://user-images.githubusercontent.com/69033172/143399503-32d15954-c74b-4dd3-b81e-98b7fada39be.jpg)
+
+
+### BER comparision for MRC, AS and EGC
+MRC is basically a weighed average of the fading coeeficients associated between different set of receiving and transmitting antenna. AS takes the best pair of Tx and Rx
+whereas EGC normalizes all the fading coefficients.<br><br>
+
+![BER_AS_EGS_MRC1](https://user-images.githubusercontent.com/69033172/143400124-637e3259-5fe9-46d8-9e60-10dfd38bd53b.jpg)
+
+
+## A MIMO-OFDM Model
+Given below a simualtion of the MIMO OFDM model.<br><br>
+![MIMO](https://user-images.githubusercontent.com/69033172/143400300-0a0af2f6-5452-4fee-bff8-e723a10fc448.jpg)
+
+
 
