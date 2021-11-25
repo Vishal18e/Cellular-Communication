@@ -9,8 +9,7 @@ This validates the theoratical results as well.<br>
 ![LS](https://user-images.githubusercontent.com/69033172/143394308-ed2e7559-14cd-454f-ab23-47a64bdcb9e0.jpg)
 
 
-
-
-In this simulation the two type of the receivers are compared and we can 
-easily see that the Maximum likelihood receiver overperforms the 
+## ML ZF receiver
+In this simulation the two type of the receivers are compared and we can easily see that the Maximum likelihood receiver outperforms the ZF receiver.<br>
+![ML](https://user-images.githubusercontent.com/69033172/143394717-e7c4bb88-d10f-4acf-a833-2647dafbe40b.jpg)
 
