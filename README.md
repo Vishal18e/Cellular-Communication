@@ -17,10 +17,10 @@ This module help in detection of the outline of the hexagonal cells. The hexagon
 This module radomly places the users in the cells of 1.6km. This module takes in the co-ordinates of the basestation and defines hexagonal cells with basestation at the center of cell and returns the co-ordinates of the 80 users in one go across 16 cells , 5 users each cell.
 ![users_plac](https://user-images.githubusercontent.com/69033172/133425103-9f6a57ff-82a2-4de5-8e77-14f5206bb151.jpg)
 
-## basesations
+## Basesations
 It takes num as the input which is 16 in this case and gives us the uniformly spaced locations of the basestation.
 
-## downlink_transmission
+## Downlink_transmission
 This module transmits bits to users and examine the received bit.
 
 ## Results
@@ -34,7 +34,7 @@ This module transmits bits to users and examine the received bit.
 ![SP_BER_vsrsnr](https://user-images.githubusercontent.com/69033172/133425357-77b2fb00-e38f-4906-b854-437368d3dafa.jpg)
 It is worth noting that BER have slight changes for the above simulated cases because of small scale simulation.
 
-## fraction of users with SINR vs SINRs(db)
+## Fraction of users with SINR vs SINRs(db)
 This plot has been plotted for different pilot powers, starting curve has the least pilot power and the last curve has the maximum pilot power.
 The result validates the figure 3 of the paper Inter-Cell Interference in Noncooperative TDD Large Scale Antenna Systems.
 ![frac_users](https://user-images.githubusercontent.com/69033172/133425302-84f6ded1-00e7-4e85-a38f-7448da2c7f4b.jpg)
