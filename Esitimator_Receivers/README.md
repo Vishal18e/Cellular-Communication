@@ -20,9 +20,10 @@ ZF receiver does not take noise into the account and hence at lower SNR we can c
 
 ## Beamformers
 We know that the intensity of the signal decreases as it travels to different distances. In case of the cellular communication we can see that the spectral efficiency is maximum near the basestations and its decreases exponentially as we move towards the cell edeges.
-![fig8](https://user-images.githubusercontent.com/69033172/143398203-d3c12c5b-fc33-4b71-ad70-04c973daf927.png)<br>
-Even if we increase the basesation density, then problem related to cell edge is not solved. <br>
-![fig9](https://user-images.githubusercontent.com/69033172/143398106-c8c5b0d8-a10a-4e66-a6c1-831e0bd32026.png)
+![fig8](https://user-images.githubusercontent.com/69033172/143398203-d3c12c5b-fc33-4b71-ad70-04c973daf927.png)<br><br>
+Even if we increase the basesation density, then problem related to cell edge is not solved. <br><br>
+![fig9](https://user-images.githubusercontent.com/69033172/143398106-c8c5b0d8-a10a-4e66-a6c1-831e0bd32026.png)<br>
+<br>
 In order to increase the spectral efficiency we can direct the beams of signal towards the users and ultimately increase the spectral efficiency.<br>
 ![fig20](https://user-images.githubusercontent.com/69033172/143398691-fc6c89fe-3b40-447b-ab34-8297ac03386e.png)
 
